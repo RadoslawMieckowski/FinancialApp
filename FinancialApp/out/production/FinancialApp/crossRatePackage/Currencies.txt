@@ -1,0 +1,9 @@
+
+PLN
+$
+€
+£
+CAD
+CHF
+¥
+NOK
